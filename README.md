@@ -52,7 +52,7 @@ The Blog App is built on the MERN Stack, which combines the following technologi
 
 To run the Blog App locally on your machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/blog-app.git`
+1. Clone the repository: `git clone https://github.com/sharmatushar14/blog-app.git`
 2. Navigate to the project directory: `cd blog-app`
 3. Install the dependencies: `npm install`
 4. Configure the environment variables (if required).
